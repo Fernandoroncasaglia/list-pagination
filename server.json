@@ -1,19 +1,91 @@
 {
-    "tags": [
-        { "title": "React", "Amount of videos": 100 },
-        { "title": "Angular", "Amount of videos": 75 }, 
-        { "title": "Vue.js", "Amount of videos": 120 }, 
-        { "title": "Node.js", "Amount of videos": 90 }, 
-        { "title": "Python", "Amount of videos": 150 }, 
-        { "title": "AngularJS", "Amount of videos": 70 }, 
-        { "title": "MongoDB", "Amount of videos": 105 }, 
-        { "title": "Ruby on Rails", "Amount of videos": 115 }, 
-        { "title": "TensorFlow", "Amount of videos": 125 }, 
-        { "title": "Unity", "Amount of videos": 95 }, 
-        { "title": "Django", "Amount of videos": 85 }, 
-        { "title": "React Native", "Amount of videos": 110 }, 
-        { "title": "Express.js", "Amount of videos": 80 }, 
-        { "title": "Java", "Amount of videos": 130 }, 
-        { "title": "C++", "Amount of videos": 95 }
-    ]
+  "tags": [
+    {
+      "title": "React",
+      "slug": "old",
+      "AmountOfVideos": 100
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "AmountOfVideos": 75
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "AmountOfVideos": 120
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "AmountOfVideos": 90
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "AmountOfVideos": 150
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "AmountOfVideos": 70
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "AmountOfVideos": 105
+    },
+    {
+      "title": "Ruby on  Rails",
+      "slug": "old",
+      "AmountOfVideos": 115
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "AmountOfVideos": 125
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "AmountOfVideos": 95
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "AmountOfVideos": 85
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "AmountOfVideos": 110
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "AmountOfVideos": 80
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "AmountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "AmountOfVideos": 95
+    },
+    {
+      "id": "0a25",
+      "title": "Nova tag do arroz",
+      "slug": "nova-tag-do-arroz",
+      "AmountOfVideos": 0
+    },
+    {
+      "id": "9dd4",
+      "title": "Newtag asooasodk",
+      "slug": "newtag-asooasodk",
+      "AmountOfVideos": 0
+    }
+  ]
 }
